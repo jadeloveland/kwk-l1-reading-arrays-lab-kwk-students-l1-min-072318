@@ -8,7 +8,7 @@ STUDENT_NAMES = [
 ]
 
 def first_student_by_index
-   puts room[0]
+room = ["Adele", "Beyoncé", "Cardi B", ]
 end
 
 def fourth_student_by_index
