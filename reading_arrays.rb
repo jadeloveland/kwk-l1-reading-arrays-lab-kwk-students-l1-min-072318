@@ -14,15 +14,16 @@ STUDENT_NAMES = [
 
 # first_student_by_index
 
-def fourth_student_by_index
-room = ["Adele", "Beyoncé", "Cardi B", "Lady Gaga", "Nicki Minaj", "Rihanna"]
-puts room[3]
-end
+# def fourth_student_by_index
+# room = ["Adele", "Beyoncé", "Cardi B", "Lady Gaga", "Nicki Minaj", "Rihanna"]
+# puts room[3]
+# end
 
- fourth_student_by_index
+# fourth_student_by_index
  
 def last_student_by_index
-  # Write a solution that returns the first student in the array student_names
+room = ["Adele", "Beyoncé", "Cardi B", "Lady Gaga", "Nicki Minaj", "Rihanna"]
+puts room[]
 end
 
 def first_student_by_method
