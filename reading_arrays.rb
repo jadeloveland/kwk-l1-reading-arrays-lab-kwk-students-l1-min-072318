@@ -21,12 +21,12 @@ STUDENT_NAMES = [
 
 # fourth_student_by_index
  
-def last_student_by_index
-room = ["Adele", "Beyoncé", "Cardi B", "Lady Gaga", "Nicki Minaj", "Rihanna"]
-puts room[-1]
-end
+# def last_student_by_index
+# room = ["Adele", "Beyoncé", "Cardi B", "Lady Gaga", "Nicki Minaj", "Rihanna"]
+# puts room[-1]
+# end
 
-last_student_by_index
+# last_student_by_index
 
 def first_student_by_method
   # Write a solution that returns the first student using the built in .first method
