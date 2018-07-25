@@ -23,8 +23,10 @@ STUDENT_NAMES = [
  
 def last_student_by_index
 room = ["Adele", "Beyoncé", "Cardi B", "Lady Gaga", "Nicki Minaj", "Rihanna"]
-puts room[]
+puts room[-1]
 end
+
+last_student_by_index
 
 def first_student_by_method
   # Write a solution that returns the first student using the built in .first method
