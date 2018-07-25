@@ -9,13 +9,13 @@ STUDENT_NAMES = [
 
 def first_student_by_index
 room = ["Adele", "Beyoncé", "Cardi B", "Lady Gaga", "Nicki Minaj", "Rihanna"]
- puts room[0]
+puts room[0]
 end
 
-first_student_by_index
+# first_student_by_index
 
 def fourth_student_by_index
-  # Write a solution that returns the first student in the array student_names
+room = 
 end
 
 def last_student_by_index
