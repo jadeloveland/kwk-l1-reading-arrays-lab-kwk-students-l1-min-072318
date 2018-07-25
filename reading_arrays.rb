@@ -29,7 +29,7 @@ STUDENT_NAMES = [
 # last_student_by_index
 
 def first_student_by_method
-puts student_names.first
+puts STUDENT_NAMES.first
 end
 
 first_student_by_method
