@@ -9,15 +9,15 @@ STUDENT_NAMES = [
 
 def first_student_by_index
 room = ["Adele", "Beyoncé", "Cardi B", "Lady Gaga", "Nicki Minaj", "Rihanna"]
-puts room[0]
+return room[0]
 end
 
 # first_student_by_index
 
-# def fourth_student_by_index
-# room = ["Adele", "Beyoncé", "Cardi B", "Lady Gaga", "Nicki Minaj", "Rihanna"]
-# puts room[3]
-# end
+def fourth_student_by_index
+room = ["Adele", "Beyoncé", "Cardi B", "Lady Gaga", "Nicki Minaj", "Rihanna"]
+puts room[3]
+end
 
 # fourth_student_by_index
  
