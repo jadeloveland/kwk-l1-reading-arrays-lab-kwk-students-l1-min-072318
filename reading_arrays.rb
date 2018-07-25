@@ -23,14 +23,14 @@ end
  
 def last_student_by_index
 room = ["Adele", "Beyoncé", "Cardi B", "Lady Gaga", "Nicki Minaj", "Rihanna"]
-puts room[-1]
+return room[-1]
 end
 
 # last_student_by_index
 
-# def first_student_by_method
-# puts STUDENT_NAMES.first
-# end
+def first_student_by_method
+puts STUDENT_NAMES.first
+end
 
 # first_student_by_method
 
