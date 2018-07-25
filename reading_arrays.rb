@@ -14,15 +14,13 @@ end
 # first_student_by_index
 
 def fourth_student_by_index
-room = ["Adele", "Beyoncé", "Cardi B", "Lady Gaga", "Nicki Minaj", "Rihanna"]
-return room[3]
+return STUDENT_NAMES[3]
 end
 
 # fourth_student_by_index
  
 def last_student_by_index
-room = ["Adele", "Beyoncé", "Cardi B", "Lady Gaga", "Nicki Minaj", "Rihanna"]
-return room[-1]
+return STUDENT_NAMES[-1]
 end
 
 # last_student_by_index
