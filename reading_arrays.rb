@@ -8,8 +8,7 @@ STUDENT_NAMES = [
 ]
 
 def first_student_by_index
-room = ["Adele", "Beyoncé", "Cardi B", "Lady Gaga", "Nicki Minaj", "Rihanna"]
-return room[0]
+return STUDENT_NAMES[0]
 end
 
 # first_student_by_index
