@@ -7,10 +7,10 @@ STUDENT_NAMES = [
   "Rihanna"
 ]
 
-# def first_student_by_index
-# room = ["Adele", "Beyoncé", "Cardi B", "Lady Gaga", "Nicki Minaj", "Rihanna"]
-# puts room[0]
-# end
+def first_student_by_index
+room = ["Adele", "Beyoncé", "Cardi B", "Lady Gaga", "Nicki Minaj", "Rihanna"]
+puts room[0]
+end
 
 # first_student_by_index
 
