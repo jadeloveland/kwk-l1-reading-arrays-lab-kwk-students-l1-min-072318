@@ -44,3 +44,5 @@ def first_second_and_third_students
 room = ["Adele", "Beyoncé", "Cardi B", "Lady Gaga", "Nicki Minaj", "Rihanna"]
 puts room [0..2]
 end
+
+first_second_and_third_students
