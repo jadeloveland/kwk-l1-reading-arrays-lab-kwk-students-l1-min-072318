@@ -8,7 +8,7 @@ STUDENT_NAMES = [
 ]
 
 def first_student_by_index
-   room[]
+   room[0]
 end
 
 def fourth_student_by_index
