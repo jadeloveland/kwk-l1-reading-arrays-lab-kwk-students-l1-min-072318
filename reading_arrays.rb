@@ -34,9 +34,9 @@ end
 
 # first_student_by_method
 
-# def last_student_by_method
-# puts STUDENT_NAMES.last
-# end
+def last_student_by_method
+puts STUDENT_NAMES.last
+end
 
 # last_student_by_method
 
